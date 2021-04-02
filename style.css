@@ -1,0 +1,25 @@
+body{
+    background-color: darkcyan;
+}
+img{
+    width: 200px;
+}
+button{
+    display: inline-block;
+    background-color: rgb(253, 187, 18);
+    padding: 10px 15px;
+    text-align: center;
+    font-size: 15px;
+}
+.main-heading{
+height: 50vh;
+width: 60vh;
+background-color: darkgoldenrod;
+text-align: center;
+display: block;
+margin: auto;
+margin-top: 20vh;
+}
+h1{
+    font-size: 2.5rem;
+}
